@@ -1,0 +1,30 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { Hero } from "../components/Hero.jsx";
+import { Navbar } from "../components/Navbar.jsx";
+import { Benefit } from "../components/Benefit.jsx";
+import { Benefit } from "../components/Benefit.jsx";
+import { Testimonials } from "../components/Testimonials.jsx";
+import { FeaturesDiagonal } from "../components/FeaturesDiagonal.jsx";
+import { Pricing } from "../components/Pricing.jsx";
+import { FAQ } from "../components/FAQ.jsx";
+import { Brands } from "../components/Brands.jsx";
+import { Divider } from "../components/Divider";
+import { Footer } from "../components/Footer.jsx";
+import { ScrollUpButton } from "../components/ScrollUpButton";
+import "../styles/Theme.css";
+import "../styles/Diagonals.css";
+
+---
+
+<Layout title="KOPICO">
+  <Navbar client:load />
+  <Hero client:load />
+  <Divider />
+  <Benefit client:load />
+  <Testimonials client:load />
+  <Brands client:load />
+  <FAQ client:load />
+  <Footer />
+  <ScrollUpButton client:load />
+</Layout>
