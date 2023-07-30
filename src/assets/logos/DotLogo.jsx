@@ -1,4 +1,4 @@
-import Logo from './Dotlogo.png';
+import Logo from './DotLogo.png';
 export const DotLogo = () => (
-    <Image src={logo} width={300} hight={300} alt="/assets/logos/Dotlogo.png" />
+    <image src={logo} width={300} hight={300} alt="/assets/logos/DotLogo.png" />
 )
