@@ -17,14 +17,14 @@ const testimonialsData = [
     customerName: "Vita Erviana",
     customerTitle: "Pradana Putri Smksa",
     content:
-        "harapannya organisasi kita makin maju dan diminati, mengingat perkembangan teknologi yang semakin marak.",
+        "harapannya organisasi media sa makin maju dan diminati, mengingat perkembangan teknologi yang semakin marak.",
     image: testimonial2,
   },
   {
-    customerName: "Tri Aldy Kurniawan",
-    customerTitle: "Full Stack Developer",
+    customerName: "Andika Prasetia",
+    customerTitle: "ketua media angkatan 1",
     content:
-        "Saya selalu mendorong teman saya untuk belajar keterampilan baru yang dapat meningkatkan peluang karir mereka. Komunitas coding ini telah membantu teman saya untuk mengembangkan keterampilan pemrograman dan mempersiapkan untuk magang di tempat industri yang mereka inginkan. Teman saya sangat menikmati lingkungan belajar yang terbuka dan kolaboratif di komunitas ini. KOPICO adalah tempat yang tepat untuk memulai perjalanan pemrograman Anda.",
+        "bagi saya media sa itu adalah keluarga saya dimana saya belajar dan diskusi bersama yang awalnya tidak bisa menjadi bisa, bagi kalian yang merasa takut tidak bisa apapun mengenai jurnalis tenang saja kok disini dibimbing oleh pembina tata cara meliput dll , jadii jangan takut mencoba",
     image: testimonial3,
   },
 ];
