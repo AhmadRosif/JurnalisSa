@@ -8,17 +8,17 @@ const FAQData = [
     "Bergabung dengan media sa dapat memberikan banyak keuntungan, seperti publik speaking , dapat menguasai angel camera, memahami editing video maupun foto, memiliki jaringan teman yang luas. ",
   },
   {
-    question: "Apa saja kegiatan yang diadakan oleh kopico?",
+    question: "Apa saja kegiatan yang diadakan oleh media sa?",
     answer:
      "Tidak ada persyaratan khusus untuk bergabung dengan media sa, selain tentu saja minat yang kuat dalam pengembangan bakat. media sa terbuka untuk siapa saja, dari pemula hingga profesional yang ingin belajar dan berbagi pengalaman.",
   },
   {
-    question: "Apakah ada persyaratan khusus untuk bergabung dengan kopico",
+    question: "Apakah ada persyaratan khusus untuk bergabung dengan media sa",
     answer:
-      "Tidak ada persyaratan khusus untuk bergabung dengan komunitas pingin coding, selain tentu saja minat yang kuat dalam pengembangan perangkat lunak. Kopico terbuka untuk siapa saja, dari pemula hingga profesional yang ingin belajar dan berbagi pengalaman.",
+      "Tidak ada persyaratan khusus untuk bergabung dengan media sa, selain tentu saja minat yang kuat dalam pengembangan bakat siswa. media sa terbuka untuk siapa saja, dari pemula hingga menjadi profesional yang ingin belajar.",
   },
   {
-    question: "Bagaimana cara bergabung dengan kopico",
+    question: "Bagaimana cara bergabung dengan media sa",
     answer:
       "Untuk bergabung dengan media sa, mempunyai niat dalam mengikuti kegiatan organisasi secara menyeluruh.",
   },
