@@ -46,7 +46,7 @@ export const InvitationModal = ({ setIsOpen }) => (
             <div className="w-full lg:w-1/2 flex items-center flex-col justify-center pt-24 sm:pt-0">
               <div className="flex lg:hidden justify-start items-center grow basis-0 mb-8 pr-6">
                   <div className="mr-2 font-extrabold text-3xl bg-gradient-to-r from-indigo-400 to-cyan-400 bg-clip-text text-transparent">
-                    Media Sa
+                    MEDIA SA
                   </div>
               </div>
 
