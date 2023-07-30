@@ -19,7 +19,7 @@ export const Hero = () => {
           transition={{ duration: 0.5 }}
         >
           <div className="text-customSecondary text-sm sm:text-base  mb-6 sm:mt-32 mt-16  font-bold">
-            From Zero to Hero
+            Lest's The Join Organisation
           </div>
         </motion.div>
         <motion.div
@@ -28,11 +28,11 @@ export const Hero = () => {
           transition={{ duration: 0.5, delay: 0.05 }}
         >
           <div className="text-5xl sm:text-6xl lg:text-7xl xl:text-7xl font-bold tracking-wide  text-white  px-8 sm:px-8 md:px-20 lg:px-4">
-            <span className="inline md:hidden">Komunitas <p>pingin coding</p></span>
-            <span className="hidden md:inline">Komunitas <p>pingin coding</p></span>
+            <span className="inline md:hidden">Media Smk <p>Syafii Akrom</p></span>
+            <span className="hidden md:inline">Media Smk <p>Syafii Akrom</p></span>
           </div>
           <div className="mt-2 sm:mt-2 text-2xl sm:text-3xl lg:text-4xl xl:text-4xl font-bold tracking-wide   px-8 sm:px-20 md:px-24 lg:px-24 bg-gradient-to-r from-violet-500 via-violet-600 to-purple-500 bg-clip-text text-transparent">
-            for Beginners
+            go beyond your imagination
           </div>
         </motion.div>
         <motion.div
@@ -41,7 +41,7 @@ export const Hero = () => {
           transition={{ duration: 0.5, delay: 0.1 }}
         >
           <div className="text-customGrayText text-sm lg:text-base xl:text-lg sm:text-base mt-10 px-12 sm:px-48 ">
-            Coding itu keren, dan kamu bisa jadi keren juga. Yuk, gabung ke komunitas kita dan kembangkan skillmu!
+            Media Sa merupakan organisasi baru smksa yang bertujuan untuk menyalurkan minat dan bakat siswa - siswi khususnya dalam jurnalistik dan multimedia!
           </div>
         </motion.div>
         <motion.div
