@@ -46,24 +46,18 @@ export const InvitationModal = ({ setIsOpen }) => (
             <div className="w-full lg:w-1/2 flex items-center flex-col justify-center pt-24 sm:pt-0">
               <div className="flex lg:hidden justify-start items-center grow basis-0 mb-8 pr-6">
                   <div className="mr-2 font-extrabold text-3xl bg-gradient-to-r from-indigo-400 to-cyan-400 bg-clip-text text-transparent">
-                    KOPICO
+                    Media Sa
                   </div>
               </div>
 
               <h3 className="mb-7 text-2xl text-white font-bold leading-snug text-center">
-                Join 500+ other developers
+                Join the other media team 
               </h3>
                 <div className="w-full sm:w-4/5 p-2 mt-4 space-y-3 mx-auto">
-                  <button
-                    className="py-4 px-6 w-full text-white font-semibold rounded-xl shadow-4xl focus:ring focus:ring-indigo-300 bg-customPrimary hover:bg-[#7274f3] transition ease-in-out duration-200"
-                    type="button"
-                    onClick={() => window.location.href="https://discord.gg/mcsh4KqtPV"}
-                  >
-                    Join With Discord
-                  </button>     <button
+               <button
                     className="py-4 px-6 w-full text-white font-semibold rounded-xl shadow-4xl focus:ring focus:ring-indigo-300 bg-green-500 hover:bg-green-600 transition ease-in-out duration-200"
                     type="button"
-                    onClick={() => window.location.href="https://chat.whatsapp.com/GLDK5K5Z3EYFDF3kngVT2H"}
+                    onClick={() => window.location.href="https://chat.whatsapp.com/IatwH6pNUbeJ7omsH6MRlA"}
                   >
                     Join With Whatsapp
                   </button>
