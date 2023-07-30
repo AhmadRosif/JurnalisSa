@@ -3,14 +3,14 @@ import { motion } from "framer-motion";
 
 const FAQData = [
   {
-    question: "Apa keuntungan bergabung dengan kopico?",
+    question: "Apa keuntungan bergabung dengan media sa?",
     answer:
-    "Bergabung dengan komunitas pingin coding dapat memberikan banyak keuntungan, seperti memperluas jaringan dan meningkatkan keterampilan Anda dalam pengembangan perangkat lunak. Anda akan bertemu dengan orang-orang yang memiliki minat yang sama dengan Anda, sehingga dapat belajar dari pengalaman dan pengetahuan mereka. Selain itu, komunitas pingin coding seringkali menyediakan bahan-bahan belajar, webinar, dan pelatihan yang dapat membantu meningkatkan keterampilan Anda secara gratis. ",
+    "Bergabung dengan media sa dapat memberikan banyak keuntungan, seperti publik speaking , dapat menguasai angel camera, memahami editing video maupun foto, memiliki jaringan teman yang luas. ",
   },
   {
     question: "Apa saja kegiatan yang diadakan oleh kopico?",
     answer:
-      "komunitas pingin coding biasanya mengadakan berbagai kegiatan seperti pertemuan berkala, diskusi kelompok, dan hackathon. Selain itu, kopico juga menyediakan bahan-bahan belajar, tutorial, dan sumber daya lain yang dapat membantu Anda meningkatkan keterampilan Anda dalam pengembangan perangkat lunak.",
+     "Tidak ada persyaratan khusus untuk bergabung dengan media sa, selain tentu saja minat yang kuat dalam pengembangan bakat. media sa terbuka untuk siapa saja, dari pemula hingga profesional yang ingin belajar dan berbagi pengalaman.",
   },
   {
     question: "Apakah ada persyaratan khusus untuk bergabung dengan kopico",
@@ -20,7 +20,7 @@ const FAQData = [
   {
     question: "Bagaimana cara bergabung dengan kopico",
     answer:
-      "Untuk bergabung dengan komunitas pingin coding, Anda bisa mencari informasi di internet atau sosial media, seperti Instagram, dan GitHub. Ada banyak komunitas coding gratis yang tersedia di internet, jadi pastikan untuk memilih yang sesuai dengan minat dan kebutuhan Anda. Setelah bergabung, Anda dapat berpartisipasi dalam kegiatan dan berinteraksi dengan anggota komunitas lainnya.",
+      "Untuk bergabung dengan media sa, mempunyai niat dalam mengikuti kegiatan organisasi secara menyeluruh.",
   },
 ];
 
