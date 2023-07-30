@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import {DotLogo} from "../assets/logos/DotLogo.png";
+import {DotLogo} from "../assets/logos/DotLogo.jsx";
 import {HummasoftLogo} from "../assets/logos/HummasoftLogo.jsx";
 import {GetLogo} from "../assets/logos/GetLogo.jsx";
 
