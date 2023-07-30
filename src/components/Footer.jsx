@@ -91,7 +91,7 @@ export const Footer = () => {
               <div className="w-36 mx-auto lg:mx-0">
                 <a
                   className="inline-block w-10  h-10 mr-2 p-2 bg-customDarkBg2 custom-border-gray  hover:bg-gray-700 rounded-xl"
-                  href="https://www.facebook.com/syafii.akrom.98"
+                  href="https://www.facebook.com/106082929246018"
                 >
                   <FacebookIcon />
                 </a>
