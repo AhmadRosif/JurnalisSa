@@ -14,10 +14,10 @@ const testimonialsData = [
     image: testimonial1,
   },
   {
-    customerName: "Henry Cahyo Nugroho",
-    customerTitle: "Guru SMKN 1 Kepanjen",
+    customerName: "Vita Erviana",
+    customerTitle: "Pradana Putri Smksa",
     content:
-        "Tidak bisa saya sangkal, komunitas coding ini sangat membantu dalam membimbing siswa-siswa saya yang ingin belajar pemrograman. Saya melihat peningkatan yang signifikan dalam keterampilan pemrograman mereka setelah bergabung dengan komunitas ini. Para ahli dan pengembang berpengalaman memberikan panduan yang sangat berharga bagi mereka, Saya merekomendasikan komunitas coding ini bagi siapa saja yang ingin memperdalam keterampilan pemrograman mereka.",
+        "harapannya organisasi kita makin maju dan diminati, mengingat perkembangan teknologi yang semakin marak.",
     image: testimonial2,
   },
   {
