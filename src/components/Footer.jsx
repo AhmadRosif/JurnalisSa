@@ -73,14 +73,14 @@ export const Footer = () => {
             <div className="w-full lg:w-1/3 mb-16 lg:mb-0">
               <div className="flex justify-center lg:justify-start items-center grow basis-0">
                 <div className="font-bold mr-2 text-6xl bg-gradient-to-r from-indigo-400 to-cyan-400 bg-clip-text text-transparent">
-                  KOPICO
+                  Media Sa
                 </div>
               </div>
               <p className="mb-10 mt-4 sm:w-[22rem] lg:w-[20rem] xl:w-[24rem] text-gray-400 leading-loose text-center lg:text-left mx-auto lg:mx-0">
                 Untuk pertanyaan lebih lanjut, silahkan hubungi admin melalui
 
                 <a
-                  href="https://egagofur.my.id"
+                  href="https://wa.me/6289508233507"
                   target="_blank"
                   className="text-gray-100 ml-1.5 "
                   aria-label="DarkAdmin"
@@ -97,13 +97,7 @@ export const Footer = () => {
                 </a>
                 <a
                   className="inline-block w-10  h-10 mr-2 p-2 bg-customDarkBg2 custom-border-gray  hover:bg-gray-700 rounded-xl"
-                  href="#"
-                >
-                  <TwitterIcon />
-                </a>
-                <a
-                  className="inline-block w-10  h-10 mr-2 p-2 bg-customDarkBg2 custom-border-gray  hover:bg-gray-700 rounded-xl"
-                  href="#"
+                  href="https://instagram.com/media_smksa"
                 >
                   <InstagramIcon />
                 </a>
