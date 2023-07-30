@@ -73,7 +73,7 @@ export const Footer = () => {
             <div className="w-full lg:w-1/3 mb-16 lg:mb-0">
               <div className="flex justify-center lg:justify-start items-center grow basis-0">
                 <div className="font-bold mr-2 text-6xl bg-gradient-to-r from-indigo-400 to-cyan-400 bg-clip-text text-transparent">
-                  Media Sa
+                  media sa
                 </div>
               </div>
               <p className="mb-10 mt-4 sm:w-[22rem] lg:w-[20rem] xl:w-[24rem] text-gray-400 leading-loose text-center lg:text-left mx-auto lg:mx-0">
