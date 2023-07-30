@@ -10,7 +10,7 @@ const FAQData = [
   {
     question: "Apa saja kegiatan yang diadakan oleh media sa?",
     answer:
-     "Tidak ada persyaratan khusus untuk bergabung dengan media sa, selain tentu saja minat yang kuat dalam pengembangan bakat. media sa terbuka untuk siapa saja, dari pemula hingga profesional yang ingin belajar dan berbagi pengalaman.",
+     "kegiatan organisasi ini yaitu : meliput , mengelolah, mengabarkan, mendistribusikan. penasaran? yuk buruan gabung, seru banget loh!!",
   },
   {
     question: "Apakah ada persyaratan khusus untuk bergabung dengan media sa",
