@@ -24,9 +24,8 @@ export const Navbar = () => {
           <a className="navbar-link" href="#home" aria-label="Home">
             <div className="flex justify-start items-center grow basis-0">
               <div className="w-full font-extrabold text-2xl md:text-4xl bg-gradient-to-r from-indigo-400 to-cyan-400 bg-clip-text text-transparent">
-                <img src="assets/trns.png" alt="logo"
+                MEDIA SA
               </div>
-            </div>
           </a>
         </motion.div>
         <motion.div
