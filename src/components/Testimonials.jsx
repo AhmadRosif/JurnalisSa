@@ -10,7 +10,7 @@ const testimonialsData = [
     customerName: "M.Yusuf",
     customerTitle: "Frontend Enginner",
     content:
-        "untuk member media Jadilah seperti reporter/kameramen selalu aman walaupun tidak ada penjagaan",
+        "Jadilah seperti reporter/kameramen selalu aman walaupun tidak ada penjagaan!",
     image: testimonial1,
   },
   {
