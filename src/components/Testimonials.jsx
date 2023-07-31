@@ -1,4 +1,4 @@
-import { motion } from "framer-motion";
+anak import { motion } from "framer-motion";
 
 import { QuoteIcon } from "../assets/icons/QuoteIcon";
 import testimonial1 from "../assets/images/testimonial1.png";
@@ -7,10 +7,10 @@ import testimonial3 from "../assets/images/testimonial3.png";
 
 const testimonialsData = [
   {
-    customerName: "Ega Gofur",
+    customerName: "M.Yusuf",
     customerTitle: "Frontend Enginner",
     content:
-        "Sebagai admin kopico saya sangat terkesan dengan komunitas coding ini. Teman-teman saya telah berkembang pesat dalam keterampilan pemrograman setelah bergabung dengan komunitas ini. Mereka mendapatkan bimbingan dari ahli, Bergabung dengan komunitas coding ini adalah langkah tepat bagi siapa saja yang ingin mengembangkan keterampilan pemrograman dan karir di bidang teknologi sesuai dengan dunia industri saat ini. Lebih dari 200+ siswa telah bergabung, Good Job Kopico!",
+        "untuk member media Jadilah seperti reporter/kameramen selalu aman walaupun tidak ada penjagaan #kameramenselaluselamatltelah#",
     image: testimonial1,
   },
   {
