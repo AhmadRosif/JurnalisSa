@@ -10,7 +10,7 @@ const testimonialsData = [
     customerName: "M.Yusuf",
     customerTitle: "Member Pmr Smksa",
     content:
-        "Jadilah seperti reporter/kameramen selalu aman walaupun tidak ada penjagaan!",
+        "untuk anak media smksa Jadilah seperti reporter/kameramen selalu aman walaupun tidak ada penjagaan! #kameramenselaluselamat",
     image: testimonial1,
   },
   {
