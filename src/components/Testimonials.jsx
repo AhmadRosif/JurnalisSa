@@ -1,4 +1,4 @@
-anak import { motion } from "framer-motion";
+import { motion } from "framer-motion";
 
 import { QuoteIcon } from "../assets/icons/QuoteIcon";
 import testimonial1 from "../assets/images/testimonial1.png";
@@ -8,7 +8,7 @@ import testimonial3 from "../assets/images/testimonial3.png";
 const testimonialsData = [
   {
     customerName: "M.Yusuf",
-    customerTitle: "Frontend Enginner",
+    customerTitle: "Member Pmr Smksa",
     content:
         "Jadilah seperti reporter/kameramen selalu aman walaupun tidak ada penjagaan!",
     image: testimonial1,
