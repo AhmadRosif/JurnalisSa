@@ -22,7 +22,7 @@ const testimonialsData = [
   },
   {
     customerName: "Andika Prasetia",
-    customerTitle: "Ketua Media SA",
+    customerTitle: "Ketua Media SMKSA",
     content:
         "Bagi saya Media SA itu adalah keluarga saya dimana saya belajar dan diskusi bersama yang awalnya tidak bisa menjadi bisa, bagi kalian yang merasa takut tidak bisa apapun mengenai jurnalis tenang saja kok disini dibimbing oleh pembina tata cara meliput dll , jadii jangan takut mencoba",
     image: testimonial3,
