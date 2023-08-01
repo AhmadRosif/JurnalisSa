@@ -41,7 +41,7 @@ export const Hero = () => {
           transition={{ duration: 0.5, delay: 0.1 }}
         >
           <div className="text-customGrayText text-sm lg:text-base xl:text-lg sm:text-base mt-10 px-12 sm:px-48 ">
-            Media Sa merupakan organisasi baru smksa yang bertujuan untuk menyalurkan minat dan bakat siswa - siswi khususnya dalam jurnalistik dan multimedia!
+            Media Sa merupakan organisasi baru SMKSA yang bertujuan untuk menyalurkan minat dan bakat siswa - siswi khususnya dalam Jurnalistik dan Multimedia!
           </div>
         </motion.div>
         <motion.div
