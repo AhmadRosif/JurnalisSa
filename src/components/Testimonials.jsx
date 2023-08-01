@@ -8,23 +8,23 @@ import testimonial3 from "../assets/images/testimonial3.png";
 const testimonialsData = [
   {
     customerName: "M.Yusuf",
-    customerTitle: "Member Pmr Smksa",
+    customerTitle: "Member Pmr SMKSA",
     content:
-        "untuk anak media smksa Jadilah seperti reporter/kameramen selalu aman walaupun tidak ada penjagaan! #kameramenselaluselamat",
+        "Untuk anak Media SMKSA Jadilah seperti reporter/kameramen selalu aman walaupun tidak ada penjagaan! #kameramenselaluselamat",
     image: testimonial1,
   },
   {
     customerName: "Vita Erviana",
-    customerTitle: "Pradana Putri Smksa",
+    customerTitle: "Pradana Putri SMKSA",
     content:
-        "harapannya organisasi media sa makin maju dan diminati, mengingat perkembangan teknologi yang semakin marak.",
+        "Harapannya organisasi Media SA makin maju dan diminati, mengingat perkembangan teknologi yang semakin marak.",
     image: testimonial2,
   },
   {
     customerName: "Andika Prasetia",
-    customerTitle: "ketua media sa",
+    customerTitle: "Ketua Media SA",
     content:
-        "bagi saya media sa itu adalah keluarga saya dimana saya belajar dan diskusi bersama yang awalnya tidak bisa menjadi bisa, bagi kalian yang merasa takut tidak bisa apapun mengenai jurnalis tenang saja kok disini dibimbing oleh pembina tata cara meliput dll , jadii jangan takut mencoba",
+        "Bagi saya Media SA itu adalah keluarga saya dimana saya belajar dan diskusi bersama yang awalnya tidak bisa menjadi bisa, bagi kalian yang merasa takut tidak bisa apapun mengenai jurnalis tenang saja kok disini dibimbing oleh pembina tata cara meliput dll , jadii jangan takut mencoba",
     image: testimonial3,
   },
 ];
@@ -43,7 +43,7 @@ export const Testimonials = () => (
           penyemangat dan harapan
         </div>
         <div className="custom-block-big-title text-center mb-16 px-8 sm:px-24 md:px-48">
-          people motivate media sa
+          people motivate Media SA
         </div>
 
         <div className="flex flex-col lg:flex-row gap-8 lg:gap-5 xl:gap-10 px-6 xl:px-0 items-center">
