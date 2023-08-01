@@ -38,15 +38,15 @@ export const Benefit = () => (
               Support dan bimbingan
             </span>
             <h2 className="mt-6 mb-8 text-4xl lg:text-5xl custom-block-big-title">
-              Benefit join Media SA
+              Benefit join Media Sa
             </h2>
-            <p className="mb-12 text-customGrayText leading-loose">Kita gak akan maju jika hanya belajar sendiri. Yuk, bergabung ke komunitas Media SA kita dan mari diskusikan dan sharing tentang Media bersama-sama!"
+            <p className="mb-12 text-customGrayText leading-loose">Kita gak akan maju jika hanya belajar sendiri. Yuk, bergabung ke komunitas Media Sa kita diskusikan dan sharing tentang media bersama-sama!"
             </p>
             <ul className="mb-6 text-white">
               <li className="mb-4 flex">
                 <CheckArrowIcon />
                 <span>
-                  Solidaritas dan kebersamaan dalam belajar Reportase maupun Multimedia 
+                  Solidaritas dan kebersamaan dalam belajar 
                 </span>
               </li>
               <li className="mb-4 flex">
