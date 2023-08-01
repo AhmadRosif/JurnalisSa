@@ -3,24 +3,24 @@ import { motion } from "framer-motion";
 
 const FAQData = [
   {
-    question: "Apa keuntungan bergabung dengan media sa?",
+    question: "Apa keuntungan bergabung dengan Media SA?",
     answer:
-    "Bergabung dengan media sa dapat memberikan banyak keuntungan, seperti publik speaking , dapat menguasai angel camera, memahami editing video maupun foto, memiliki jaringan teman yang luas. ",
+    "Bergabung dengan Media SA dapat memberikan banyak keuntungan, seperti publik speaking , dapat menguasai angel camera, memahami editing video maupun foto, memiliki jaringan teman yang luas. ",
   },
   {
-    question: "Apa saja kegiatan yang diadakan oleh media sa?",
+    question: "Apa saja kegiatan yang diadakan oleh Media SA?",
     answer:
      "kegiatan organisasi ini yaitu : meliput , mengelolah, mengabarkan, mendistribusikan. penasaran? yuk buruan gabung, seru banget loh!!",
   },
   {
-    question: "Apakah ada persyaratan khusus untuk bergabung dengan media sa",
+    question: "Apakah ada persyaratan khusus untuk bergabung dengan Media SA",
     answer:
-      "Tidak ada persyaratan khusus untuk bergabung dengan media sa, selain tentu saja minat yang kuat dalam pengembangan bakat siswa. media sa terbuka untuk siapa saja, dari pemula hingga menjadi profesional yang ingin belajar.",
+      "Tidak ada persyaratan khusus untuk bergabung dengan Media SA, selain tentu saja minat yang kuat dalam pengembangan bakat siswa. media sa terbuka untuk siapa saja, dari pemula hingga menjadi profesional yang ingin belajar.",
   },
   {
-    question: "Bagaimana cara bergabung dengan media sa",
+    question: "Bagaimana cara bergabung dengan Media SA",
     answer:
-      "Untuk bergabung dengan media sa, mempunyai niat dalam mengikuti kegiatan organisasi secara menyeluruh.",
+      "Untuk bergabung dengan Media SA, mempunyai niat dalam mengikuti kegiatan organisasi secara menyeluruh.",
   },
 ];
 
