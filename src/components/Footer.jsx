@@ -40,8 +40,8 @@ const footerData = [
         importantLink: "#FAQ"
       },
       {
-        title: "Devaloper",
-        importantLink: "https://instagram.com/mr_shicy/"
+        title: "Roadmap",
+        importantLink: "https://roadmap.sh"
       }
     ],
   },
