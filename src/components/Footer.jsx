@@ -4,23 +4,23 @@ import { GithubIcon } from "../assets/icons/GithubIcon";
 
 const footerData = [
   {
-    title: "Programming",
+    title: "Berita",
     items: [
       {
-        title: "HTML",
-        linkStudy: "https://www.w3schools.com/html/"
+        title: "Nasional",
+        linkStudy: "https://www.cnnindonesia.com/nasional/"
       },
       {
-        title: "CSS",
-        linkStudy: "https://www.w3schools.com/css/"
+        title: "Internasional",
+        linkStudy: "https://www.cnnindonesia.com/internasional/"
       },
       {
-        title: "JS",
-        linkStudy: "https://www.w3schools.com/js"
+        title: "Olahraga",
+        linkStudy: "https://www.cnnindonesia.com/olahraga/"
       },
       {
-        title: "PHP",
-        linkStudy: "https://www.w3schools.com/php/"
+        title: "Teknologi",
+        linkStudy: "https://www.cnnindonesia.com/teknologi/"
       }
     ],
   },
