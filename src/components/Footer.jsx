@@ -40,8 +40,8 @@ const footerData = [
         importantLink: "#FAQ"
       },
       {
-        title: "Roadmap",
-        importantLink: "https://roadmap.sh"
+        title: "Devaloper",
+        importantLink: "https://instagram.com/mr_shicy/"
       }
     ],
   },
@@ -49,16 +49,16 @@ const footerData = [
     title: "Company",
     items: [
       {
-        title: "DOT Indonesia",
-        linkCompany: "https://www.dot.co.id/"
+        title: "SMKSA",
+        linkCompany: "https://ponpes-smksa.sch.id/"
       },
       {
-        title: "Hummasoft",
-        linkCompany: "https://hummasoft.com/"
+        title: "BKK-SMKSA",
+        linkCompany: "https://bkk.ponpes-smksa.sch.id/"
       },
       {
         title: "Get Aplikasi",
-        linkCompany: "https://getaplikasi.id/"
+        linkCompany: "https://jurnalis-sa.vercel.app/"
       }
     ],
   },
